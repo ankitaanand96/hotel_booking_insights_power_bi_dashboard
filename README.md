@@ -1,4 +1,4 @@
-# Hotel Booking InSights Power BI Dashboard
+# Hotel Booking Insights Power BI Dashboard
 Interactive Power BI dashboard for hotel bookings that surfaces stay trends, booking lead-time, weekday vs. weekend mix, and length-of-stay cohorts. 
 
 🏨 Hotel Booking Insights Dashboard – Power BI
